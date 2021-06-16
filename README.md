@@ -1,6 +1,6 @@
 # Build a competition entry chat bot with Twilio Autopilot and Facebook Messenger
 
-This repo contains the code required to run the project described in the blog post [Build a competition entry chat bot with Twilio Autopilot and Facebook Messenger](https://www.twilio.com/blog).
+This repo contains the code required to run the project described in the blog post [Build a competition entry chat bot with Twilio Autopilot and Facebook Messenger](https://www.twilio.com/blog/build-competition-entry-chat-bot-twilio-autopilot-facebook-messenger).
 
 ## What you need
 
@@ -12,7 +12,7 @@ To run this repo you will need to have:
 * An [Airtable account](https://airtable.com/)
 * [ngrok](https://ngrok.com) so that you can [respond to webhooks in your local development environment](https://www.twilio.com/blog/2015/09/6-awesome-reasons-to-use-ngrok-when-testing-webhooks.html)
 
-You will also need to follow the instructions in this blog post to set up your bot. This repo contains all of the code that is written in the blog post.
+You will also need to [follow the instructions in this blog post to set up your bot](https://www.twilio.com/blog/build-competition-entry-chat-bot-twilio-autopilot-facebook-messenger). This repo contains all of the code that is written in the blog post.
 
 ## How to run
 
